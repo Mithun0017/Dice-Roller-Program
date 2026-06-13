@@ -25,3 +25,12 @@ The **Dice Roller** app lets users roll one or more dice at once. Built with HTM
 - **JavaScript** – Dice roll logic and dynamic content
 
 ---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Dice_Roller.png" width="48%" />
+</p>
+
+---
+
